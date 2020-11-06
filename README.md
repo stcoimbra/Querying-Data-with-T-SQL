@@ -11,8 +11,6 @@ Module 1: **Introduction to Transact-SQL
 [Lab 1,](https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/blob/master/Labs/Lab01.pdf)
 [Exercise 1](https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/blob/master/Exercises/Module1-Exercises.sql)**
 
-**
-
 Module 2: **Querying Tables with SELECT  
 [Lab 2,](https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/blob/master/Labs/Lab02.pdf) [Demo 2,](https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/tree/master/Demos/Mod02_Demos) [Exercise 2](https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/blob/master/Exercises/Module2-Exercises.sql)**
 
