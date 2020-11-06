@@ -1,4 +1,3 @@
-# Querying-Data-with-T-SQL
 ## Microsoft DAT201x: Querying Data with Transact SQL
 
 Here is what I did throughout the subject - "Data and Data Base Management". This subject is part of the [postgraduate course](https://www.idefe.pt/cursos/DSBA)  that I am currently undertaking.
